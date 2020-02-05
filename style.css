@@ -1,11 +1,5 @@
-h1 { color: blue; background-color : yellow; border: 1px solid black }
-p { color: red; }
-p {color:red;
-   text-align: center;}
-#para1 {
-text-align:center;
-color:red;    
-} 
-.center {
-text-align:center;
-color:red;}  
+a{
+    display: block;
+    flex-direction: row;
+    margin: 20px 0 0 20px;
+}
